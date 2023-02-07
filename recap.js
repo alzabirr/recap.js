@@ -55,3 +55,13 @@ for( var points = 0 ; points <= 10 ; points++){
     console.log(points)
 }
 
+/// 5 | object  ki = kono kichur bornona 
+
+var  phone = {
+    phoneBrand : "samsung" ,
+    price : 30000 ,
+    color: "red",
+
+}
+console.log(phone);
+
