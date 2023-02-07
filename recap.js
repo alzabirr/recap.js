@@ -64,5 +64,3 @@ var  phone = {
 
 }
 console.log(phone);
-
-cccccc /
